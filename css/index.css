@@ -211,7 +211,7 @@ table th{
 .galar{
     display: flex;
     flex-direction: column;
-    margin:2vw 2vw;
+    margin-left: 5vw;
     
 }
 
